@@ -1,3 +1,9 @@
-PyPDF2
 streamlit
+PyPDF2
 python-dotenv
+langchain
+openai
+tiktoken
+unstructured
+numpy
+pandas
